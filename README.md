@@ -1,8 +1,6 @@
-### Hi there 👋
+### Welcome 👋
 
-I'm Garth, and I'm a Software Enginneer working with React and Typescript.
-
-🌍 [toland.dev](https://toland.dev)
+Check out some of my software below, or [visit my site - toland.dev](https://toland.dev) 🌍
 
 <br/>
 
